@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redfirebuilder-afk.github.io/pohudenie-bez-stressa/sitemap.xml
